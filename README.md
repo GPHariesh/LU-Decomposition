@@ -9,10 +9,19 @@ To write a program to find the LU Decomposition of a matrix.
 
 ## Algorithm
 ```
-1.Define the package as scipy.linalg import lu.
-2.Get input from user and print L and U matrix by 'print' .
-3.Define a package as "from scipy.linalg import lu_factor, lu_solve" and create the variable as 'X' include the package in that variable
-4.print the variable 'X'
+ Algorithm To find the L and U matrix
+1. Import Required Libraries
+2. Input the Matrix
+3. Perform LU Decomposition
+4. Display L Matrix
+5. Display U Matrix
+
+ Algorithm To find the LU Decomposition of a matrix
+1. Import Required Libraries
+2. Input Matrices A and B
+3. Perform LU Factorization
+4. Solve the System
+5.  Display the Result
 ```
 ## Program:
 (i) To find the L and U matrix
